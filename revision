@@ -1,0 +1,30 @@
+# x = 3
+# print(x)
+
+# z = 10
+# y = 5
+# print(z>y)
+
+# Age = int(input("How old are you \n"))
+# if Age >= 18:
+#     print("You can enter.")
+# else:
+#     print("You are not allowed to enter \n")
+
+# Name = str(input("What is your name? \n"))
+# print("Hello," , Name)
+# Age = int(input("How old are you? \n"))
+# if Age >= 18:
+#     Question = str(input("Is this your first day here? \n"))
+#     if Question == "Yes":
+#         print("You are in the starting class. \n")
+#     else:
+#         Class = str(input("What class are you in? \n"))
+#         print("Welcome to" , Class)
+    
+# else:
+#    print ("You are in the starting class. \n")
+
+def printmysubjects(Subjects):
+    for subjects in subjects:
+        print("I know ", + sujects)
